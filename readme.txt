@@ -1,1 +1,1 @@
-lsh is nice.
+lsh is very nice.
